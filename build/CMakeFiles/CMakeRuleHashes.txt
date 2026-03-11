@@ -1,3 +1,0 @@
-# Hashes of file build rules.
-ba5e79bece74537d1a8a2706ecdd2b42 BibliotecaApp1_0_autogen/EWIEGA46WW/qrc_resources.cpp
-6c8f0281d41b585f32dbcfc03b654415 BibliotecaApp1_0_autogen/timestamp

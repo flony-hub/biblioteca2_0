@@ -1,4 +1,0 @@
-C:/Users/auten/Documents/qtProyect/biblioteca2_0/build/CMakeFiles/BibliotecaApp1_0.dir
-C:/Users/auten/Documents/qtProyect/biblioteca2_0/build/CMakeFiles/INSTALL.dir
-C:/Users/auten/Documents/qtProyect/biblioteca2_0/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/auten/Documents/qtProyect/biblioteca2_0/build/CMakeFiles/ZERO_CHECK.dir
