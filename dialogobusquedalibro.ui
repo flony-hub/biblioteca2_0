@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DialogoBusquedaLibro</class>
+ <widget class="QDialog" name="DialogoBusquedaLibro">
+  <property name="windowTitle">
+   <string>Buscar Libros</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QLabel" name="labelTituloPrincipal">
+     <property name="text">
+      <string>Buscar Libros</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignCenter</set>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">font-weight: bold; font-size: 16pt;</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QLabel" name="labelTitulo">
+       <property name="text">
+        <string>Título:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="lineEditTitulo"/>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLabel" name="labelAutor">
+       <property name="text">
+        <string>Autor:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLineEdit" name="lineEditAutor"/>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLabel" name="labelEditorial">
+       <property name="text">
+        <string>Editorial:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLineEdit" name="lineEditEditorial"/>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLabel" name="labelPalabrasClave">
+       <property name="text">
+        <string>Palabras clave:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QLineEdit" name="lineEditPalabrasClave"/>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayoutBotones">
+     <item>
+      <widget class="QPushButton" name="btnBuscar">
+       <property name="text">
+        <string>Buscar</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="btnCancelar">
+       <property name="text">
+        <string>Cancelar</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="QTableWidget" name="tableWidgetResultados">
+     <column>
+      <property name="text">
+       <string>ISBN</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Título</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Autor</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Editorial</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>País</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Año</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Disponible</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
+

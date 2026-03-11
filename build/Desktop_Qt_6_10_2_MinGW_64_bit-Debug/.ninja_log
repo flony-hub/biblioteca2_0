@@ -1,0 +1,20 @@
+# ninja log v6
+11	2318	7948943619543414	BibliotecaApp1_0_autogen/timestamp	9b71a738b09799f3
+11	2318	7948943619543414	BibliotecaApp1_0_autogen/mocs_compilation.cpp	9b71a738b09799f3
+11	2318	7948943619543414	C:/Users/tissera/Documents/QtProyect/biblioteca2_0/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/BibliotecaApp1_0_autogen/timestamp	9b71a738b09799f3
+11	2318	7948943619543414	C:/Users/tissera/Documents/QtProyect/biblioteca2_0/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/BibliotecaApp1_0_autogen/mocs_compilation.cpp	9b71a738b09799f3
+2328	2410	7948943621200673	BibliotecaApp1_0_autogen/EWIEGA46WW/qrc_resources.cpp	2b35432e919a8626
+2328	2410	7948943621200673	C:/Users/tissera/Documents/QtProyect/biblioteca2_0/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/BibliotecaApp1_0_autogen/EWIEGA46WW/qrc_resources.cpp	2b35432e919a8626
+2423	6347	7948943621421067	CMakeFiles/BibliotecaApp1_0.dir/libro.cpp.obj	a669c0f267a0a168
+2426	7193	7948943621450987	CMakeFiles/BibliotecaApp1_0.dir/usuario.cpp.obj	d2ffe0b8ec61501e
+2430	7818	7948943621490883	CMakeFiles/BibliotecaApp1_0.dir/prestamo.cpp.obj	e543721d01024ffc
+2415	9229	7948943621341279	CMakeFiles/BibliotecaApp1_0.dir/main.cpp.obj	2fb99feffdfb6703
+2412	10349	7948943621311355	CMakeFiles/BibliotecaApp1_0.dir/BibliotecaApp1_0_autogen/mocs_compilation.cpp.obj	47f7410316b79b46
+2419	14682	7948943621381184	CMakeFiles/BibliotecaApp1_0.dir/mainwindow.cpp.obj	c0e0a8de9dfe305e
+14684	15732	7948943744035314	CMakeFiles/BibliotecaApp1_0.dir/BibliotecaApp1_0_autogen/EWIEGA46WW/qrc_resources.cpp.obj	8a96c7ff6519adda
+7193	15772	7948943669123568	CMakeFiles/BibliotecaApp1_0.dir/dialogolibro.cpp.obj	c1e693b36dae5931
+6348	16075	7948943660666168	CMakeFiles/BibliotecaApp1_0.dir/databasemanager.cpp.obj	fe1e1ea43c08c112
+7819	16521	7948943675376854	CMakeFiles/BibliotecaApp1_0.dir/dialogousuario.cpp.obj	9b7ac216d5a1f62
+9229	16956	7948943689481823	CMakeFiles/BibliotecaApp1_0.dir/dialogoprestamo.cpp.obj	ccf91e5672e490ca
+10349	17645	7948943700680714	CMakeFiles/BibliotecaApp1_0.dir/dialogobusquedalibro.cpp.obj	b4da1287839c1b5d
+17645	18692	7948943773639607	BibliotecaApp1_0.exe	41737b3b92aa9ceb

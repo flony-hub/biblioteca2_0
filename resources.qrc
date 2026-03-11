@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo_marca_agua.png</file>
+        <file>icons/search.png</file>
+    </qresource>
+</RCC>
